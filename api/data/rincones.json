@@ -1,0 +1,115 @@
+{
+  "nextId": 12,
+  "rincones": [
+    {
+      "id": 1,
+      "name": "Mirador del atardecer",
+      "description": "Vistas top para el final del día",
+      "category": "Mirador",
+      "phone": "+34 600 111 222",
+      "latitude": 40.4168,
+      "longitude": -3.7038,
+      "createdAt": 1768725303157
+    },
+    {
+      "id": 2,
+      "name": "Mural de colores",
+      "description": "Un mural enorme en una calle tranquila",
+      "category": "Arte",
+      "phone": "+34 600 222 333",
+      "latitude": 40.4152,
+      "longitude": -3.7074,
+      "createdAt": 1768725363157
+    },
+    {
+      "id": 3,
+      "name": "Parque silencioso",
+      "description": "Perfecto para leer 20 minutos",
+      "category": "Naturaleza",
+      "phone": "+34 600 333 444",
+      "latitude": 40.4201,
+      "longitude": -3.7052,
+      "createdAt": 1768725423157
+    },
+    {
+      "id": 4,
+      "name": "Café con vistas",
+      "description": "Terraza con buena luz",
+      "category": "Cafetería",
+      "phone": "+34 600 444 555",
+      "latitude": 40.4189,
+      "longitude": -3.7101,
+      "createdAt": 1768725483157
+    },
+    {
+      "id": 5,
+      "name": "Plaza escondida",
+      "description": "Pequeña plaza poco transitada",
+      "category": "Ciudad",
+      "phone": "+34 600 555 666",
+      "latitude": 40.4134,
+      "longitude": -3.7019,
+      "createdAt": 1768725543157
+    },
+    {
+      "id": 6,
+      "name": "Librería curiosa",
+      "description": "Pasillo de libros raros y cómics",
+      "category": "Cultura",
+      "phone": "+34 600 666 777",
+      "latitude": 40.4174,
+      "longitude": -3.6996,
+      "createdAt": 1768725603157
+    },
+    {
+      "id": 7,
+      "name": "Puente fotogénico",
+      "description": "Buen sitio para fotos nocturnas",
+      "category": "Foto",
+      "phone": "+34 600 777 888",
+      "latitude": 40.4196,
+      "longitude": -3.7122,
+      "createdAt": 1768725663157
+    },
+    {
+      "id": 8,
+      "name": "Mercadillo del finde",
+      "description": "Puestos y ambiente los domingos",
+      "category": "Ocio",
+      "phone": "+34 600 888 999",
+      "latitude": 40.4109,
+      "longitude": -3.708,
+      "createdAt": 1768725723157
+    },
+    {
+      "id": 9,
+      "name": "Rincón para picnic",
+      "description": "Sombra y bancos",
+      "category": "Naturaleza",
+      "phone": "+34 600 999 000",
+      "latitude": 40.4217,
+      "longitude": -3.7007,
+      "createdAt": 1768725783157
+    },
+    {
+      "id": 10,
+      "name": "Mirador urbano",
+      "description": "Ves media ciudad desde aquí",
+      "category": "Mirador",
+      "phone": "+34 611 000 111",
+      "latitude": 40.4141,
+      "longitude": -3.7135,
+      "createdAt": 1768725843157
+    },
+    {
+      "id": 11,
+      "name": "Nuevo rincón",
+      "description": "Prueba",
+      "category": "Ciudad",
+      "phone": "+34 600 000 000",
+      "latitude": 40.4,
+      "longitude": -3.7,
+      "createdAt": 1768725914254
+    }
+  ]
+}
